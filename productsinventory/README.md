@@ -17,7 +17,7 @@
 
 ## productsinventory
 
-An SAP Fiori freestyle app to manage products inventory (demo)
+An SAP Fiori freestyle app to manage products inventory (demo only)
 
 ### Starting the generated app
 
